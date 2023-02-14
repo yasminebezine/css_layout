@@ -1,0 +1,34 @@
+h1{color:mediumaquamarine;text-align: right;
+}
+h2{justify-content: center;}
+.drape{text-align: center;
+    flex-direction: row;
+   justify-content: space-around ;}
+   .paraghraphe{display:flex;
+    flex-direction:row ;
+    padding: 25px 50px 75px 100px}
+
+    .image{display: block;
+        margin-left: auto;
+        margin-right: auto;}
+
+
+nav{display:flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+     display:flex;
+     justify-content:right;
+     text-align: end;
+     justify-items: baseline;
+    }
+
+    .regroupement{display: flex;
+        justify-content: space-around;
+
+  }
+  .another{color: aqua;}
+  .emplacement{background-color: aquamarine;}
+ 
+
